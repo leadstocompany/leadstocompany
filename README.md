@@ -11,7 +11,7 @@
 <a href="https://t.me/LeadsMedia">
   <img align="left" alt="Bhim's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://wa.me/8296343757">
+<a href="https://wa.me/xxxxxxx">
   <img align="left" alt="Bhim's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 <a href="https://twitter.com/leadstocompany">
   <img align="left" alt="Bhim's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
