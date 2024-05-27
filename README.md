@@ -35,7 +35,7 @@
 - 💬 Python Web Development
 - 💬 Java Web Development
 - 💬 PHP Web Development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/company/90584459) , [Instragram](https://wa.me/8296343757)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/company/90584459) , [Instragram]
 
 
 **Languages and Tools:**  
